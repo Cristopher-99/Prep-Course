@@ -27,7 +27,7 @@
 - `git log "archivo.txt"`: sirve para ver el historial del archivo.
 - `git push`: sirve para enviar cambios al repositorio remoto.
 - `git pull`: sirve para recibir cambios de repositorio remoto a local.
-
+dsadsad
 ### Ciclos de vida o estados de los archivos en Git
 
 Cuando trabajamos con Git nuestros archivos pueden vivir y moverse entre 4 diferentes estados (cuando trabajamos remoto pueden ser más estados, pero lo estudiaremos más adelante)
