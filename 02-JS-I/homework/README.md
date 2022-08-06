@@ -6,11 +6,11 @@
 
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
- * Variables
- * Strings
- * Funciones (argumentos, `return`)
- * Declaraciones `if`
- * Valores booleanos (`true`, `false`)
+ * Variables: es algo que retorna un valor, y dicho valor puede ir variando o modificando.
+ * Strings: es un tipo de dato de java script en el cual suelen contener nombres o palabras
+ * Funciones (argumentos, `return`) : las funciones son como apartados en el codigo el cual suelen tener sus propias variables que estaran encerradas en la funcion. estaas funciones tienen argumentos(que son las variables que se encuentran en la funciones) y returns(que son valores que retorna dicha funcion en el caso de ser una VAR tipo numbers)
+ * Declaraciones `if` : son sentencias condicionales, en la cual vienen acompañados de una condicion y que retornaran un valor booleano(true  o false) y segun este valor ya sea verdadero o falso, pasara a la siguiente linea de codigo que seria ELSE o ELSE IF
+ * Valores booleanos (`true`, `false`): los valores booleanos, son valores que solo pueden retornar 2 cosas que es true o false, verdadero o falso. esto tambien se relaciona con los binarios; teniendo el 1 como true y el falso como 0.
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
